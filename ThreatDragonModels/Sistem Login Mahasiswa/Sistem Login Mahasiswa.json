@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Sistem Login Mahasiswa",
+    "owner": "Kelompok Rupid",
+    "description": "Threat modeling sistem login dan profil mahasiswa berbasis web.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Muhammad Fathammubina"
+      },
+      {
+        "name": "Rasya Syahri Ramadhan"
+      },
+      {
+        "name": "Besthian Guido Rafael Simbolon"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Dosen Praktikum",
+    "threatTop": 0
+  }
+}
